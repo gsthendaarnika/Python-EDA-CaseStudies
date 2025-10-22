@@ -61,5 +61,5 @@ Each notebook explores real-world datasets to uncover insights, identify pattern
 
 --- 
 
-#👩‍💻 Author
-GS ThenDaarnika
+## Created By  
+**Then Daarnika** 
